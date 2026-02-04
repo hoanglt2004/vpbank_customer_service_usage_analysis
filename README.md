@@ -1,6 +1,6 @@
 # VPBank CRM Customer Service Usage Analysis
 
-> Phân tích mức độ sử dụng dịch vụ khách hàng tại chi nhánh ngân hàng và đề xuất hướng tăng trưởng doanh thu **+20%** dựa trên dữ liệu CRM (Customer Segment, AUM, Product Holding).
+> Phân tích mức độ sử dụng dịch vụ khách hàng tại chi nhánh ngân hàng và đề xuất hướng tăng trưởng doanh thu **+20%** dựa trên dữ liệu CRM.
 
 📌 **Public Power BI Report (View-only):**
 https://shorturl.at/YH3Ye
