@@ -9,6 +9,13 @@ https://shorturl.at/YH3Ye
 
 ---
 
+## Report Preview
+
+![Overview](images/overview.png)
+![Services](images/services.png)
+
+---
+
 ## 1. Business Context
 
 Giám đốc chi nhánh cần một báo cáo tổng quan để:
@@ -86,6 +93,3 @@ Các cột thể hiện khách hàng có/không sử dụng sản phẩm (nhị 
 - Các sản phẩm có biên lợi nhuận cao như **Thẻ tín dụng / Tiền gửi kỳ hạn / Vay** có tỷ lệ sử dụng còn thấp → cơ hội tăng doanh thu nằm ở cross-sell.
 
 > Toàn bộ số liệu/insight chi tiết có trong report & PDF summary.
-
----
-
