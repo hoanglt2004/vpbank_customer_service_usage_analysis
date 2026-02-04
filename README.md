@@ -3,7 +3,7 @@
 > Phân tích mức độ sử dụng dịch vụ khách hàng tại chi nhánh ngân hàng và đề xuất hướng tăng trưởng doanh thu **+20%** dựa trên dữ liệu CRM (Customer Segment, AUM, Product Holding).
 
 📌 **Public Power BI Report (View-only):**
-[https://app.powerbi.com/view?r=eyJrIjoiYzU1NzQ2OTItZjZhOC00NjI3LThiYWItYTQ5ZDYyYzhkMGRkIiwidCI6ImNhOWFhMzg0LTQ2NTEtNDRiYi1hMjNlLWRiNmQ2NTdkNDAyYSJ9](https://shorturl.at/YH3Ye)
+https://shorturl.at/YH3Ye
 
 📄 **Slide/PDF Summary:** `VPBANK_CRM_REPORT.pdf`
 
